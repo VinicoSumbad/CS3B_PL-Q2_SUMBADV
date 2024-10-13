@@ -2,7 +2,7 @@
 Student Name: Vinico Sumbad
 Course, Year and Section: BSCS - 3B
 Quiz No. : 2
-Date: Oct 10, 2024
+Date: Oct 13, 2024
 
 """
 
